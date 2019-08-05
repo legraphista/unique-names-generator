@@ -34,7 +34,7 @@
     "url": "git@github.com:andreasonny83/unique-names-generator.git"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.13",
+    "@types/jest": "^24.0.17",
     "jest": "^24.8.0",
     "np": "^5.0.3",
     "prettier": "^1.18.2",
